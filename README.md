@@ -1,4 +1,4 @@
-# Siamese Model NLP to Detect Fake Videos
+# Siamese Model NLP to Detect Videos based pn their Context
  A NLP Based Siamese Model Approach to detect Fake videos
  
  (The data used for the model to work is Hidden due to privacy concerns)
