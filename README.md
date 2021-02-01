@@ -19,7 +19,7 @@ Project used :
 
 Concepts Used :
 
-## Siamese Networks :
+Siamese Networks, Tokenizing, Sequencing, WordIndex, NLTK, Gensim, YoutubeAPI, One Shot Learning, Euclidean Distance, Word2Vec, Word Embeddings
 
 
 
